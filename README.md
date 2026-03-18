@@ -1,5 +1,5 @@
 # LRE AWS Inventory Dashboard (Streamlit)
-
+> Delivery note: this project was built and iterated using a vibecode workflow in Cursor, with an AI coding agent (`gpt-5.3-codex`).
 ## Project Objective
 
 This project provides a lightweight dashboard to demonstrate AWS EC2 inventory reporting for LRE environments.
